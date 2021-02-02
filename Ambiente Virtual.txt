@@ -1,0 +1,3 @@
+Diretorio : pythonc
+
+Ambiente Virtual : PYTHON_CURSO
